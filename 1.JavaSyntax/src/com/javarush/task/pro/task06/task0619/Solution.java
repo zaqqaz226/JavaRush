@@ -15,6 +15,7 @@ public class Solution {
         }
     }
 
+    // TODO: 21.04.2022 Write here  
     public static String destroyDeadMan(String text){
         return (text + " был уничтожен");
     }
