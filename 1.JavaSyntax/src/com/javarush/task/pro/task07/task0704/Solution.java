@@ -10,4 +10,13 @@ public class Solution {
     double uraniumAtomicMass = 238.0289;
     double averageBeeWeight = 0.085;
     double javaDeveloperSalary = 10000.0;
+
+    public static void main(String[] args) {
+        double earthDiameter = 1.2742E+4;
+        double lightSpeed = 299792458.0;
+        double uraniumAtomicMass = 238.0289;
+        double averageBeeWeight = 0.085;
+        double javaDeveloperSalary = 10000.0;
+    }
 }
+
